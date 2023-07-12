@@ -1,8 +1,9 @@
 # SGTransportCardScanner
 
 NFC Transport Card Reader framework for Singapore Transport Cards
-
-
+# Installation
+add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
+# Usage
 
     import SwiftUI
     import SGTransportCardScanner
