@@ -22,4 +22,5 @@ add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
             interactor.beginScan()
         }
     }
-    
+
+    <img src="relative/path/in/repository/to/IMG_4090.png" width="128"/>
