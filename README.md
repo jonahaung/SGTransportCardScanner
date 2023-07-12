@@ -1,5 +1,5 @@
 # SGTransportCardScanner
-
+<img src="relative/path/in/repository/to/IMG_4090.png" width="128"/>
 NFC Transport Card Reader framework for Singapore Transport Cards
 # Installation
 add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
@@ -23,4 +23,4 @@ add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
         }
     }
 
-    <img src="relative/path/in/repository/to/IMG_4090.png" width="128"/>
+    
