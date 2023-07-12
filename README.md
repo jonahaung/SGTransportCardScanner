@@ -4,12 +4,12 @@
   <img src="https://github.com/jonahaung/SGTransportCardScanner/blob/main/IMG_4091.png" width="250"/>
 </p>
 
-
 NFC Transport Card Reader framework for Singapore Transport Cards
-# Installation
-add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
-# Usage
 
+# Installation
+Add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
+
+# Usage Example
     import SwiftUI
     import SGTransportCardScanner
     public class NFCScanner: ObservableObject {
@@ -27,5 +27,3 @@ add Swift package at "https://github.com/jonahaung/SGTransportCardScanner"
             interactor.beginScan()
         }
     }
-
-    
