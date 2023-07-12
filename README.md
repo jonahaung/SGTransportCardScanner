@@ -3,14 +3,13 @@
 NFC Transport Card Reader framework for Singapore Transport Cards
 
 # Usage
+
+
 import SwiftUI
 import SGTransportCardScanner
-
 public class NFCScanner: ObservableObject {
-    
     @Published var cardDetail: NFCCard?
     private let interactor = SGTransportCardScanner()
-    
     public init() {
         interactor.setNfcCardDetectedBlock { [weak self] card in
             guard let self else { return }
@@ -19,7 +18,6 @@ public class NFCScanner: ObservableObject {
             }
         }
     }
-    
     public func beginScan() {
         interactor.beginScan()
     }
