@@ -1,7 +1,7 @@
 # SGTransportCardScanner
 <p align="left">
-  <img src="https://github.com/jonahaung/SGTransportCardScanner/blob/main/IMG_4090.png" width="250"/>
   <img src="https://github.com/jonahaung/SGTransportCardScanner/blob/main/IMG_4091.png" width="250"/>
+  <img src="https://github.com/jonahaung/SGTransportCardScanner/blob/main/IMG_4090.png" width="250"/>
 </p>
 
 NFC Transport Card Reader framework for Singapore Transport Cards
