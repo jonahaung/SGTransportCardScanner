@@ -2,7 +2,6 @@
 
 NFC Transport Card Reader framework for Singapore Transport Cards
 
-# Usage
 
 
 import SwiftUI
